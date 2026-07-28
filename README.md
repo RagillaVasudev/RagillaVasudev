@@ -54,14 +54,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-- **[Project Name](https://github.com/RagillaVasudev)** — Short one-line description of what it does and the tech used.
-- **[Project Name](https://github.com/RagillaVasudev)** — Short one-line description of what it does and the tech used.
-- **[Project Name](https://github.com/RagillaVasudev)** — Short one-line description of what it does and the tech used.
-
----
-
 ### 🤝 Connect with Me
 
 <p align="center">
